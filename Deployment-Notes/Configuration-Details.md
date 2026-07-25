@@ -102,8 +102,6 @@ Configured security options:
 
 \- Public anonymous access: Disabled
 
-\- Minimum TLS version: 1.2
-
 
 
 \---
