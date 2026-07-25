@@ -11,18 +11,19 @@ The objective is to create a simple, scalable, and reliable cloud storage archit
 The solution consists of:
 
 - User
-- Azure Storage Account
+- Storage Account
 - Blob Container
 - Blob Objects (documents, images, and other files)
 
 Architecture flow:
 
-User → Azure Storage Account → Blob Container → Blobs
+User → Azure Storage Account →  Azure Blob Container → Azure Storage Container → Blobs
 
 ## Azure Services Used
 
-- Azure Storage Account
-- Azure Blob Storage
+- Storage Account
+- Blob Storage
+- Storage Container
 
 ## Project Version
 
