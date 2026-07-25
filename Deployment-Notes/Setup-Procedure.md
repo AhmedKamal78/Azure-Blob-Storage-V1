@@ -55,6 +55,7 @@ Uploaded sample files to the Blob Container using:
 
 ## Final Environment
 
+```
 Azure Subscription → Resource Group → Storage Account → Blob Container → Files
 ```
 
