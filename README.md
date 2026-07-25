@@ -100,8 +100,8 @@ Note:
 
 Detailed project documentation is available in:
 
-- [Setup Procedure](Documentation/Setup-Procedure.md)
-- [Configuration Details](Documentation/Configuration-Details.md)
+- [Setup Procedure](Deployment-Notes/Setup-Procedure.md)
+- [Configuration Details](Deployment-Notes/Configuration-Details.md)
 - [Lessons Learned](Documentation/Lessons-Learned.md)
 - [Deployment Guide](Deployment-Notes/Deployment-Guide.md)
 

@@ -11,19 +11,7 @@ This document summarizes the deployment sequence and validation steps for the Az
 The Azure Blob Storage V1 environment was deployed in the following order:
 
 ```
-Azure Subscription
-        |
-        ↓
-Resource Group
-        |
-        ↓
-Storage Account
-        |
-        ↓
-Blob Container
-        |
-        ↓
-Uploaded Files
+Azure Subscription → Resource Group → Storage Account → Blob Container → Uploaded Files
 ```
 
 ---
