@@ -1,10 +1,10 @@
-# Azure Blob Storage Architecture (V1)
+# Azure Blob Storage V1
 
 ## Overview
 
 This project demonstrates a basic Azure cloud storage solution using Azure Blob Storage.
 
-The objective is to create a simple, scalable, and reliable cloud storage architecture for storing documents and images.
+The objective is to create a simple, scalable, and reliable cloud storage architecture for storing documents, images, and other files.
 
 ## Architecture
 
@@ -12,12 +12,12 @@ The solution consists of:
 
 - User
 - Azure Storage Account
-- Azure Blob Storage
-- Documents / Images
+- Blob Container
+- Blob Objects (documents, images, and other files)
 
 Architecture flow:
 
-User → Azure Storage Account → Blob Storage → Files
+User → Azure Storage Account → Blob Container → Blobs
 
 ## Azure Services Used
 
@@ -28,19 +28,12 @@ User → Azure Storage Account → Blob Storage → Files
 
 ### V1 - Basic Blob Storage
 
-Features:
+Features implemented:
+
 - Created Azure Storage Account
 - Configured Blob Storage
 - Created Blob Container
-- Uploaded documents/images
-
-## Implementation Steps
-
-1. Create Azure Storage Account.
-2. Configure Blob Storage.
-3. Create Blob Container.
-4. Upload sample files.
-5. Verify stored data.
+- Uploaded sample documents/images
 
 ## Architecture Diagram
 
@@ -57,7 +50,7 @@ Features:
 
 Planned upgrades:
 
-- V2: Add application layer for file upload
-- V3: Add authentication and authorization
-- V4: Add database integration
-- V5: Add monitoring, security, and CI/CD
+- V2: Add C# Console uploader
+- V3: Add WinUI 3 frontend
+- V4: Add ASP.NET Core API
+- V5: Enterprise version with security, monitoring, and CI/CD
