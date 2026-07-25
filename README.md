@@ -53,19 +53,19 @@ User → Azure Storage Account →  Azure Blob Storage → Azure Storage Contain
 
 ## 1. Resource Group Overview
 
-![Resource Group Overview](Documentation/screenshots/01-resource-group-overview.png)
+![Resource Group Overview](Documentation/Screenshots/01-resource-group-overview.png)
 
 ---
 
 ## 2. Blob Storage Settings
 
-![Blob Storage Settings](Documentation/screenshots/02-blob-storage-settings.png)
+![Blob Storage Settings](Documentation/Screenshots/02-blob-storage-settings.png)
 
 ---
 
 ## 3. Blob Containers List
 
-![Blob Containers List](Documentation/screenshots/03-blob-containers-list.png)
+![Blob Containers List](Documentation/Screenshots/03-blob-containers-list.png)
 
 Note:
 - `$logs` is an Azure-managed system container.
@@ -75,13 +75,13 @@ Note:
 
 ## 4. Blob Container with Uploaded Files
 
-![Sample Files Container](Documentation/screenshots/04-sample-files-container.png)
+![Sample Files Container](Documentation/Screenshots/04-sample-files-container.png)
 
 ---
 
 ## 5. Azure Storage Explorer Verification
 
-![Azure Storage Explorer](Documentation/screenshots/05-storage-explorer.png)
+![Azure Storage Explorer](Documentation/Screenshots/05-storage-explorer.png)
 
 ---
 
