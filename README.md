@@ -12,12 +12,13 @@ The solution consists of:
 
 - User
 - Storage Account
+- Blob Storage
 - Blob Container
 - Blob Objects (documents, images, and other files)
 
 Architecture flow:
 
-User → Azure Storage Account →  Azure Blob Container → Azure Storage Container → Blobs
+User → Azure Storage Account →  Azure Blob Storage → Azure Storage Container → Blobs
 
 ## Azure Services Used
 
